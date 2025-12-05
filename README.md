@@ -1,2 +1,0 @@
-# rocketqueen
-personal website
